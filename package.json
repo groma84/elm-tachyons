@@ -1,0 +1,28 @@
+{
+  "name": "tachyons-elm",
+  "version": "1.0.0",
+  "description": "Tachyons CSS to elm conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justgage/tachyons-elm.git"
+  },
+  "author": "Gage Peterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justgage/tachyons-elm/issues"
+  },
+  "homepage": "https://github.com/justgage/tachyons-elm#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lodash": "^4.17",
+    "lodash.flattendeep": "^4.4.0",
+    "lodash.replace": "^4.1.4",
+    "lodash.without": "^4.4.0",
+    "postcss": "^7.0.2",
+    "string-extract-class-names": "^5.0.0"
+  }
+}
