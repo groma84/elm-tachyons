@@ -22,7 +22,7 @@
     "lodash.flattendeep": "^4.4.0",
     "lodash.replace": "^4.1.4",
     "lodash.without": "^4.4.0",
-    "postcss": "^7.0.2",
+    "postcss": "^8.2.10",
     "string-extract-class-names": "^5.0.0"
   }
 }
